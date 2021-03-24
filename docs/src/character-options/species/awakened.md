@@ -32,6 +32,8 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 **Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength. Create a set of arms using the standard rules which have a gear point total of 2. You are always attuned to them, and they do not count against your attunement limit. These arms have the _desperate_ affix, which does not count against their gear point total. You can modify their affixes using the Craft or Enchant downtime activities.
 
+FOLLOWUP: Rework to match affix discovery mechanics.
+
 <div class="inline-box">
 
 **Desperate (arms, advanced, 1):** While at death's door, your attacks are automatically criticals if they hit.

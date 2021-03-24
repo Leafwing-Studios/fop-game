@@ -82,6 +82,8 @@ At level 1, you learn to augment your body with powerful temporary magical abili
 
 You learn 3 affixes at level 1 selected from the [list of affixes](https://tools.fontsofpower.com). You learn an additional affix at level 4, 8, 12, 16 and 19. These must be arms affixes, cannot be prismatic and must have a gear point cost of 1 or less.
 
+FOLLOWUP: replace this with an affix discovery mechanism or an entirely distinct feature.
+
 ## Meditation
 
 When you reach level 2, you learn to sit in perfect tranquility, refreshing yourself even as battle rages around you. Whenever you take the Defend major action and have not yet spent movement or made an attack this turn, you may spend essence equal to twice your proficiency bonus to regain life equal to four times the essence spent. When you do, you cannot spend movement or make any attacks until the start of your next turn.

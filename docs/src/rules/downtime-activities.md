@@ -117,6 +117,8 @@ Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertis
 
 ## Enchant
 
+TODO: Revise to account for limited recipe pool.
+
 Enchant an item, adding an affix to it by spending essence crystals.
 
 Select a trinket, or an affix and a set of arms or armor. Successfully adding this affix to the gear consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead. Creating trinkets always costs 10 essence crystals.
@@ -153,6 +155,10 @@ Read a book, hone a talent, sharpen your weapon, practice magic, gather informat
 Focus on rest and enjoy yourself.
 
 Remove an additional stack of exhaustion or restore half your maximum life.
+
+## Research
+
+TODO: Rules about learning new recipes.
 
 ## Resupply
 

@@ -4,6 +4,8 @@ The available manifestations are listed below, while the domain-specific customi
 
 ## Blade
 
+FOLLOWUP: Revise to better fit lower gear complexity budget and affix discovery mechanics.
+
 When you use the Swap minor action, you may summon a blade of swirling elements to your hand. These weapons (which can take any form you wish) are powered by your innate energy, granting you additional power but fading shortly after they leave your grasp.
 
  Create a set of arms using the standard rules which have a gear point total of 2. You are always attuned to them, and they do not count against your attunement limit. These arms have the _elemental weaponry_ affix corresponding to the element associated with your domain, changing the type of damage that they deal. You can modify their affixes using the Enchant (but not craft) downtime activity.
@@ -90,6 +92,8 @@ When you Surge this manifestation:
 |  12   |   6    |   7    |
 
 ## Grasp
+
+FOLLOWUP: Revise to better fit lower gear complexity budget and affix discovery mechanics.
 
 Elements grasp at your foe, holding them tight as they crush them with raw force. When you use the Swap minor action, you may augment your grasp with terrible elemental energy.
 

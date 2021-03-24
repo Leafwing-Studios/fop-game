@@ -29,6 +29,9 @@ Essence crystals are essential for the creation and modification of magical item
 
 ## The Process of Crafting
 
+TODO: Integrate Research downtime activity. 
+
+
 You can create, modify and deconstruct mundane and magical items during downtime activities:
 
 - **Harvest:** Gather essence crystals.
@@ -40,6 +43,8 @@ You can create, modify and deconstruct mundane and magical items during downtime
 Lend a hand, make a deal or beg a favor; by combining your skills with your allies you’ll get the work done in no time. For detailed information on how this works, reference the [Downtime Activities](rules/downtime-activities.md) chapter.
 
 ## Affixes
+
+TODO: Discuss how affix discovery works.
 
 You can find the complete, searchable list of affixes for this game [here.](https://tools.fontsofpower.com/affixes)
 

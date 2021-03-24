@@ -26,6 +26,8 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 **Uniquely Adapted:** Select one trinket affix that has a gear point total of one and is not prismatic. You gain its benefits at all times.
 
+FOLLOWUP: Rework to match affix discovery mechanics.
+
 **Elemental Sustenance:** You do not need to eat or drink, but instead must regularly consume elemental energy in some form in order to survive.
 
 ## Primordial
